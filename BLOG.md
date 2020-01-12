@@ -77,7 +77,9 @@ pip install numpy==0.17.2
 # Then install the cassandra-driver (this should take a few minutes)
 pip install cassandra-driver
 # Check that it worked:
-from cassandra.protocol import NumpyProtocolHandler
+/home/arthur/projects/fastsandra-git/BLOG.md
+python -c 'from cassandra.protocol import NumpyProtocolHandler;print(NumpyProtocolHandler)'
+rom cassandra.protocol import NumpyProtocolHandler
 # Should print:
 # <class 'cassandra.protocol.cython_protocol_handler.<locals>.CythonProtocolHandler'>
 # If it doesn't print anything, it didn't work
