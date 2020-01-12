@@ -3,4 +3,4 @@ numpy==1.17.2
 pandas==0.25.1
 jupyter==1.0.0
 cassandra-driver==3.20.1
-pympler=0.8
+pympler==0.8

@@ -70,7 +70,7 @@ First you need to install the driver correctly. Here's how to do it on ubuntu, f
 
 ```bash
 # First make sure you have your the correct library installed on your system:
-sudo apt install python3.7-dev libev4 libev-dev
+sudo apt install python3.7-dev libev4 libev-dev build-essential
 # Activate your your virtual environment and first install Cython and numpy
 pip install Cython==0.29.14
 pip install numpy==0.17.2
