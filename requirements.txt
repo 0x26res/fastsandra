@@ -1,5 +1,5 @@
 Cython==0.29.14
-numpy==1.17.2
+numpy==1.22.0
 pandas==0.25.1
 jupyter==1.0.0
 cassandra-driver==3.20.1
